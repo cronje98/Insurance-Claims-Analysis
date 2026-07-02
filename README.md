@@ -24,16 +24,22 @@ Matplotlib & Seaborn
 Scikit-learn
 Excel (Pivot Tables, Charts, Slicers)
 Jupyter Notebook
+
 ===========================
 
 # Machine Learning Model
 
-Model used:
--->Linear Regression
+Model Performance:
+Linear Regression
+R² (Test): 0.72
+Dataset size: 1,333 observations
 
-Performance:
--->R² ≈ 0.73
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/0d6a41e3-e837-42a1-a9a1-79035f1ea173" />
+
+# Smoking status had the largest positive coefficient, indicating the strongest association with increased insurance claim costs in the fitted model. BMI, blood pressure, and the number of children( now also visisble) also showed positive associations. Regional variables and gender had comparatively smaller effects.
+
 ===========================
+
 # Excel Dashboard
 
 An interactive Excel dashboard was built featuring:
@@ -42,9 +48,11 @@ KPI cards (Total cases, Avg claims, % smokers)
 Pivot charts (Smoker, BMI, Age analysis)
 Interaction analysis (Smoker × BMI)
 Slicers (Smoker, Gender, Age)
+# Dashboard Preview
 
-
+<img width="928" height="326" alt="Screenshot 2026-07-02 163130" src="https://github.com/user-attachments/assets/900155e5-40ab-4e93-9a59-623341629467" />
 ================================================================
+
 # Key insights (EDA):
 
 -->Smokers incur significantly higher insurance charges
@@ -52,7 +60,9 @@ Slicers (Smoker, Gender, Age)
 -->Interaction effects exist between smoking and BMI
 ===============================================================
 
-# Dashboard Preview
-<img width="928" height="326" alt="Screenshot 2026-07-02 163130" src="https://github.com/user-attachments/assets/900155e5-40ab-4e93-9a59-623341629467" />
+
+
+
+
 
 
